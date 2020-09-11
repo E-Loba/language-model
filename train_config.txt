@@ -1,0 +1,11 @@
+text_data/dummy_mlm_lex_inputs.gz
+text_data/dummy_mlm_pos_inputs.gz
+text_data/dummy_mlm_targets.gz
+1000
+10
+5
+1 32 32 32 4 5000 500 0.1
+dummy_test
+FormTwo
+ |||
+ascii
